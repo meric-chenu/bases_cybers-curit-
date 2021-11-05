@@ -1,0 +1,11 @@
+Bonjour agent 42,
+
+La phase de surveillance s’est très bien déroulée. Nous avons été en mesure d’approcher la cible et de compromettre plusieurs de ses équipements.
+
+Malheureusement, il semblerait que pour les communications les plus critiques, elle utilise systématiquement un poste informatique complètement isolé pour chiffrer les ressources avant de les envoyer.
+
+Nous avons réussi à intercepter un de ces messages chiffrés avant qu’il ne soit expédié par voix postale, vous le trouverez en pièce jointe. De plus, nous sommes également parvenus à obtenir une copie du programme utilisé (nommé « CryptoSecureFile 3000 ») par la cible pour chiffrer ses échanges ; cela pourra peut-être vous aider pour le décryptage…
+
+Bonne chance.
+
+Anne Onyme

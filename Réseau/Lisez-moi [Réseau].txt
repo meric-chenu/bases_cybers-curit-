@@ -1,0 +1,18 @@
+~~~~~~~~~~~~~
+Introduction à la cybersécurité
+~~~~~~~~~~~~~
+
+ ▐ ▄ ▄▄▄ .▄▄▄▄▄▄▄▌ ▐ ▄▌      ▄▄▄  ▄ •▄ 
+•█▌▐█▀▄.▀·•██  ██· █▌▐█▪     ▀▄ █·█▌▄▌▪
+▐█▐▐▌▐▀▀▪▄ ▐█.▪██▪▐█▐▐▌ ▄█▀▄ ▐▀▀▄ ▐▀▀▄·
+██▐█▌▐█▄▄▌ ▐█▌·▐█▌██▐█▌▐█▌.▐▌▐█•█▌▐█.█▌
+▀▀ █▪ ▀▀▀  ▀▀▀  ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀·▀  ▀
+
+=======| Règles du challenge de réseau |=======
+
+Principe
+---------------
+
+Ce challenge prend la forme d’un tutoriel qui vous permettra de découvrir pas à pas Wireshark, un outil permettant d’écouter, de sauvegarder et d’analyser les paquets qui transitent sur les réseaux informatiques.
+
+Contrairement à la plupart des autres challenges, vous serez guidés et les différentes étapes seront explicitées. 

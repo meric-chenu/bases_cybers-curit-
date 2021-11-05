@@ -1,0 +1,30 @@
+~~~~~~~~~~~~~
+Introduction à la cybersécurité
+~~~~~~~~~~~~~
+
+▄▄▄  ▄▄▄ . ▌ ▐·▄▄▄ .▄▄▄  .▄▄ · ▄▄▄ .     ▄▄▄·  ▐ ▄ ·▄▄▄▄       ▄▄· ▄▄▄   ▄▄▄·  ▄▄· ▄ •▄ ▪   ▐ ▄  ▄▄ • 
+▀▄ █·▀▄.▀·▪█·█▌▀▄.▀·▀▄ █·▐█ ▀. ▀▄.▀·    ▐█ ▀█ •█▌▐███▪ ██     ▐█ ▌▪▀▄ █·▐█ ▀█ ▐█ ▌▪█▌▄▌▪██ •█▌▐█▐█ ▀ ▪
+▐▀▀▄ ▐▀▀▪▄▐█▐█•▐▀▀▪▄▐▀▀▄ ▄▀▀▀█▄▐▀▀▪▄    ▄█▀▀█ ▐█▐▐▌▐█· ▐█▌    ██ ▄▄▐▀▀▄ ▄█▀▀█ ██ ▄▄▐▀▀▄·▐█·▐█▐▐▌▄█ ▀█▄
+▐█•█▌▐█▄▄▌ ███ ▐█▄▄▌▐█•█▌▐█▄▪▐█▐█▄▄▌    ▐█ ▪▐▌██▐█▌██. ██     ▐███▌▐█•█▌▐█ ▪▐▌▐███▌▐█.█▌▐█▌██▐█▌▐█▄▪▐█
+.▀  ▀ ▀▀▀ . ▀   ▀▀▀ .▀  ▀ ▀▀▀▀  ▀▀▀      ▀  ▀ ▀▀ █▪▀▀▀▀▀•     ·▀▀▀ .▀  ▀ ▀  ▀ ·▀▀▀ ·▀  ▀▀▀▀▀▀ █▪·▀▀▀▀ 
+
+=======| Règles des challenge de reverse engineering |=======
+
+Principe
+---------------
+
+L’objectif est de parvenir à « casser » des petits programmes appelés “crackme” en utilisant des techniques de reverse engineering.
+
+Concrètement, pour chacun de ces programmes, vous devez retrouver le “flag” caché, c’est-à-dire une chaîne de caractères qui sera acceptée par le programme comme étant la « bonne réponse ».
+
+En avançant dans les épreuves, les thèmes abordés pourront évoluer et se diversifier, mais en restant liés au reverse engineering.
+
+
+Conseils et indications
+-----------------------------------
+
+Les différents programmes à casser prennent la forme de binaires Linux (ELF) 64 bits. Chacun est libre d’utiliser les outils de son choix pour y parvenir, nous vous conseillons toutefois pour le désassemblage :
+    — Cutter (<https://github.com/radareorg/cutter>), une interface graphique à radare2, gratuit, libre et disponible sur Windows, Linux et macOS.
+    — Hopper (<https://www.hopperapp.com/>) qui propose une version d’essai gratuite et qui est disponible sous Linux 64 bits et macOS.
+
+En ce qui concerne le debugger, nous vous conseillons gdb qui est disponible gratuitement sous licence GPL et qui fonctionne sur la plupart des systèmes Unix.

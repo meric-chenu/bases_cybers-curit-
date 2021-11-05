@@ -1,0 +1,26 @@
+~~~~~~~~~~~~~
+Introduction à la cybersécurité
+~~~~~~~~~~~~~
+
+ ▄▄· ▄▄▄   ▄· ▄▌ ▄▄▄·▄▄▄▄▄       ▄▄ • ▄▄▄   ▄▄▄·  ▄▄▄· ▄ .▄ ▄· ▄▌
+▐█ ▌▪▀▄ █·▐█▪██▌▐█ ▄█•██  ▪     ▐█ ▀ ▪▀▄ █·▐█ ▀█ ▐█ ▄███▪▐█▐█▪██▌
+██ ▄▄▐▀▀▄ ▐█▌▐█▪ ██▀· ▐█.▪ ▄█▀▄ ▄█ ▀█▄▐▀▀▄ ▄█▀▀█  ██▀·██▀▐█▐█▌▐█▪
+▐███▌▐█•█▌ ▐█▀·.▐█▪·• ▐█▌·▐█▌.▐▌▐█▄▪▐█▐█•█▌▐█ ▪▐▌▐█▪·•██▌▐▀ ▐█▀·.
+·▀▀▀ .▀  ▀  ▀ • .▀    ▀▀▀  ▀█▄▀▪·▀▀▀▀ .▀  ▀ ▀  ▀ .▀   ▀▀▀ ·  ▀ • 
+
+=======| Règles des challenge de cryptographie |=======
+
+Principe
+---------------
+
+L’objectif est de parvenir à décrypter des messages en utilisant des techniques de cryptanalyse.
+
+Concrètement, pour valider une épreuve, vous devez retrouver le “flag” caché dans les différents messages.
+
+En avançant dans les épreuves, les thèmes abordés et les techniques utilisées pourront évoluer et se diversifier, mais en restant liés à la cryptographie.
+
+
+Conseils et indications
+-----------------------------------
+
+Sauf lorsque le contraire est explicitement indiqué, tous les messages chiffrés sont rédigés en français.

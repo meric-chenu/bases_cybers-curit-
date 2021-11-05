@@ -1,0 +1,11 @@
+Bonjour agent 42,
+
+J’ai le déplaisir de vous informer que suite aux opérations menées lors de notre précédente mission, il semble que nous ayons été repérés par la cible. Elle a d’ailleurs commencé à détruire un nombre important de documents, mais nous savons déjà qu’il ne s’agit que de copies. Les originaux sont conservés ailleurs…
+
+La cible s’est également connectée à une application de messagerie instantanée pour envoyer un message à trois correspondants différents. D’après nos connaissances sur leurs procédures, il doit sûrement s’agir d’un message unique préparé à l’avance visant à donner l’alerte à ses contacts.
+
+Heureusement, l’application utilisée était déjà compromise par nos services ! Nous avons donc été en mesure d’intercepter les communications que vous trouverez dans le dossier « Messages ». L’analyse du protocole nous a permis de déterminer que ces dernières ont été chiffrées avec l’algorithme RSA… Les clés publiques des trois correspondants ont également été récupérées, vous les trouverez dans le dossier « Public keys ».
+
+Bonne chance pour le décryptage.
+
+Anne Onyme

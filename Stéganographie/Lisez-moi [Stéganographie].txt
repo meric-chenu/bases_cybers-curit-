@@ -1,0 +1,20 @@
+~~~~~~~~~~~~~
+Introduction à la cybersécurité
+~~~~~~~~~~~~~
+
+.▄▄ · ▄▄▄▄▄▄▄▄ . ▄▄ •  ▄▄▄·  ▐ ▄        ▄▄ • ▄▄▄   ▄▄▄·  ▄▄▄· ▄ .▄ ▄· ▄▌
+▐█ ▀. •██  ▀▄.▀·▐█ ▀ ▪▐█ ▀█ •█▌▐█▪     ▐█ ▀ ▪▀▄ █·▐█ ▀█ ▐█ ▄███▪▐█▐█▪██▌
+▄▀▀▀█▄ ▐█.▪▐▀▀▪▄▄█ ▀█▄▄█▀▀█ ▐█▐▐▌ ▄█▀▄ ▄█ ▀█▄▐▀▀▄ ▄█▀▀█  ██▀·██▀▐█▐█▌▐█▪
+▐█▄▪▐█ ▐█▌·▐█▄▄▌▐█▄▪▐█▐█ ▪▐▌██▐█▌▐█▌.▐▌▐█▄▪▐█▐█•█▌▐█ ▪▐▌▐█▪·•██▌▐▀ ▐█▀·.
+ ▀▀▀▀  ▀▀▀  ▀▀▀ ·▀▀▀▀  ▀  ▀ ▀▀ █▪ ▀█▄▀▪·▀▀▀▀ .▀  ▀ ▀  ▀ .▀   ▀▀▀ ·  ▀ • 
+
+=======| Règles des challenge de stéganographie |=======
+
+Principe
+---------------
+
+L’objectif est de parvenir à retrouver des messages cachés en utilisant des techniques de stéganographie.
+
+Concrètement, pour valider une épreuve, vous devez retrouver le “flag” caché.
+
+En avançant dans les épreuves, les thèmes abordés et les techniques utilisées pourront évoluer et se diversifier, mais en restant liés à la stéganographie.
